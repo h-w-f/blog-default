@@ -15,12 +15,10 @@
 			<name>Blog</name>
 			<settings>
 				<cache>false</cache>
-				<layouts>
-					<layout>
-						<file>/layout/view.html</file>
-						<is_default>true</is_default>
-					</layout>
-				</layouts>
+				<layout>
+					<file>/layout/view.html</file>
+					<is_default>true</is_default>
+				</layout>
 				<head>
 					<title>Blog - </title>
 					<meta>
