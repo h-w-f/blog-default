@@ -7,6 +7,7 @@
 	<dependencies>
 		<application>
 			<name>Blog</name>
+			<version>0.0.1</version>
 			<repo>https://github.com/h-w-f/blog</repo>
 		</application>
 	</dependencies>
