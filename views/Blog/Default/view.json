@@ -6,27 +6,19 @@
 	"repo"			: "https://github.com/h-w-f/view-blog-default",
 	"dependencies"	: {
 		"core"			: {
-			"Core" : {
-				"name"		: "Core",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/core"
-			}
+			"name"		: "Core",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/core"
 		},
 		"application"  : {
-			"Blog" : {
-				"name"		: "Blog",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/application-blog"
-			}
+			"name"		: "Blog",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/application-blog"
 		},
-		"components"	: {
-		},
-		"packages"		: {
-		},
-		"middlewares"	: {
-		},
-		"views"			: {
-		}
+		"components"	: [],
+		"packages"		: [],
+		"middlewares"	: [],
+		"views"			: []
 	},
 	"settings"		: {
 		"cache" 	: false,
